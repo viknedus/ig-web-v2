@@ -78,7 +78,7 @@ export default function Header() {
                 onClick={signOut}
               />
               <a
-                href="https://github.com/viknedus"
+                href="https://github.com/viknedus/ig-web-v2"
                 className="border-2 p-0 h-10 w-10 rounded-full cursor-pointer hover:scale-125 transition-all duration-150 ease-out"
               >
                 <Image
