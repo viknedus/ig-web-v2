@@ -4,7 +4,9 @@ This is an Instagram like social media web application built with NEXT.JS
 
 ![IG Web v2-ish](/public/ScreenRecording.gif)
 
-### Check out the build [Here ->](https://ig-web-v2.vercel.app)
+## YouTube video [Here 📀](https://youtu.be/sejKzPx5Owg)
+
+## DEMO [HERE 🔗](https://ig-web-v2.vercel.app)
 
 ---
 
